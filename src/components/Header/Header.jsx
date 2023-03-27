@@ -11,7 +11,7 @@ const Header = () => {
           Shop
         </a>
         <a className="nav-link" href="/order">
-          Order
+          Orders
         </a>
         <a className="nav-link" href="/inventory">
           Inventory
