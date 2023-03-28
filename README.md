@@ -1,3 +1,3 @@
 # ema-john-simple
 
-live-site: https://siddiquenaim.github.io/ema-john-simple/
+live-site: http://parched-cherry.surge.sh/

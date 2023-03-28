@@ -10,7 +10,9 @@ const Shop = () => {
 
   useEffect(() => {
     const loadData = async () => {
-      const res = await fetch("/public/products.json");
+      const res = await fetch(
+        "https://raw.githubusercontent.com/ProgrammingHero1/ema-john-resources/main/fakeData/products.json"
+      );
       const data = await res.json();
       setProducts(data);
     };
