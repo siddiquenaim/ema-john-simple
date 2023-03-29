@@ -1,3 +1,3 @@
 # ema-john-simple
 
-live-site: http://parched-cherry.surge.sh/
+live-site: https://ema-johnsh.surge.sh/
