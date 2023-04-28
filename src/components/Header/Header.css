@@ -18,3 +18,11 @@
 .nav-link:hover {
   color: goldenrod;
 }
+
+.email {
+  color: white;
+}
+
+.btn-user {
+  background-color: white;
+}
